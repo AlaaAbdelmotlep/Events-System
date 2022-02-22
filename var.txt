@@ -1,0 +1,28 @@
+"isSpeaker"
+"fullname"
+"email"
+"password"
+"passwordConfirmation"
+
+address
+city
+street
+building
+role
+image
+['speaker', 'student' , "admin"]
+
+{
+    "isSpeaker":true,
+    "fullname":"alaa",
+    "email":"alaa@gmail.com",
+    "password":"12345",
+    "passwordConfirmation":"12345",
+    "address": {
+            "city": "Man",
+            "street": 2,
+            "building":8
+    },
+    "role": "student",
+    "image": "1.jbg"
+}
